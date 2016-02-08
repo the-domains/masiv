@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0.9032258
+color:
+  saturation: 0.01971326
+  lightness: 0.3189964
+  brandStrength: 0.7791701
+  brandColors:
+    - '#C89B76'
+    - '#FFFFFF'
+    - '#412830'
+    - '#885338'
+    - '#020101'
+  rhythmicContrast: 0.02688172
+name: Masiv
